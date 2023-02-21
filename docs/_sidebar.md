@@ -35,3 +35,4 @@
 
   - [QUEEN API for developers](dev_api)
   - [Clue system editor](soft_studio_clues)
+  - [QUEEN Studio Tricks](soft_studio_tricks)
